@@ -1,0 +1,1 @@
+www merupakan sesuatu yang oleh kebanyakan orang dianggap sebagai Internet. Www berisi halaman web, gambar, video, dan konten online lainnya yang dapat diakses melalui browser web. Untuk mentransfer halaman web ke komputer, Anda membutuhkan Hyper-Text Transfer Protocol HTTP.
